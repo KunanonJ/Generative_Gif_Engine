@@ -1,0 +1,173 @@
+[
+  {
+    "dna": "10cf81378c94440b1d1d0aecaa4beda243280781",
+    "name": "#1",
+    "description": "Your project description",
+    "image": "ipfs://NewUriToReplace/1.gif",
+    "edition": 1,
+    "date": 1646367569550,
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "4Frames_Green_Background"
+      },
+      {
+        "trait_type": "Ball",
+        "value": "4Frames_Green_Ball"
+      }
+    ],
+    "compiler": "Generative GIF Engine"
+  },
+  {
+    "dna": "7af25312ed0d196787a9a5bc0ba5d549fa06e13a",
+    "name": "#2",
+    "description": "Your project description",
+    "image": "ipfs://NewUriToReplace/2.gif",
+    "edition": 2,
+    "date": 1646367569739,
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "4Frames_Blue_Background"
+      },
+      {
+        "trait_type": "Ball",
+        "value": "4Frames_Green_Ball"
+      }
+    ],
+    "compiler": "Generative GIF Engine"
+  },
+  {
+    "dna": "b73561dacafd8ef2c69ecc1de904c81350053557",
+    "name": "#3",
+    "description": "Your project description",
+    "image": "ipfs://NewUriToReplace/3.gif",
+    "edition": 3,
+    "date": 1646367569927,
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "4Frames_Green_Background"
+      },
+      {
+        "trait_type": "Ball",
+        "value": "4Frames_Orange_Ball"
+      }
+    ],
+    "compiler": "Generative GIF Engine"
+  },
+  {
+    "dna": "996e773b1b3d5eab0ac71bfc2a1605d22a4f1538",
+    "name": "#4",
+    "description": "Your project description",
+    "image": "ipfs://NewUriToReplace/4.gif",
+    "edition": 4,
+    "date": 1646367570117,
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "Orange"
+      },
+      {
+        "trait_type": "Ball",
+        "value": "4Frames_Red_Ball"
+      }
+    ],
+    "compiler": "Generative GIF Engine"
+  },
+  {
+    "dna": "c44c71760fb3ca5d399a4a9eb00f14d8882b4907",
+    "name": "#5",
+    "description": "Your project description",
+    "image": "ipfs://NewUriToReplace/5.gif",
+    "edition": 5,
+    "date": 1646367570304,
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "4Frames_Green_Background"
+      },
+      {
+        "trait_type": "Ball",
+        "value": "4Frames_Red_Ball"
+      }
+    ],
+    "compiler": "Generative GIF Engine"
+  },
+  {
+    "dna": "a38ec00d6c3fda214493d48d7545c2e0404261da",
+    "name": "#6",
+    "description": "Your project description",
+    "image": "ipfs://NewUriToReplace/6.gif",
+    "edition": 6,
+    "date": 1646367570491,
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "4Frames_Blue_Background"
+      },
+      {
+        "trait_type": "Ball",
+        "value": "4Frames_Orange_Ball"
+      }
+    ],
+    "compiler": "Generative GIF Engine"
+  },
+  {
+    "dna": "423c8985d8e381011a4bbb8b2f8de576a284aaab",
+    "name": "#7",
+    "description": "Your project description",
+    "image": "ipfs://NewUriToReplace/7.gif",
+    "edition": 7,
+    "date": 1646367570674,
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "Orange"
+      },
+      {
+        "trait_type": "Ball",
+        "value": "4Frames_Orange_Ball"
+      }
+    ],
+    "compiler": "Generative GIF Engine"
+  },
+  {
+    "dna": "cd0224ba786a012a0b2648b72db0f7a504439229",
+    "name": "#8",
+    "description": "Your project description",
+    "image": "ipfs://NewUriToReplace/8.gif",
+    "edition": 8,
+    "date": 1646367570856,
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "Orange"
+      },
+      {
+        "trait_type": "Ball",
+        "value": "4Frames_Green_Ball"
+      }
+    ],
+    "compiler": "Generative GIF Engine"
+  },
+  {
+    "dna": "d63da111fbac41b8dfd7f5fbb60f18799f446248",
+    "name": "#9",
+    "description": "Your project description",
+    "image": "ipfs://NewUriToReplace/9.gif",
+    "edition": 9,
+    "date": 1646367571037,
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "4Frames_Blue_Background"
+      },
+      {
+        "trait_type": "Ball",
+        "value": "4Frames_Red_Ball"
+      }
+    ],
+    "compiler": "Generative GIF Engine"
+  }
+]

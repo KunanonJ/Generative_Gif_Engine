@@ -1,0 +1,19 @@
+{
+  "dna": "cd0224ba786a012a0b2648b72db0f7a504439229",
+  "name": "#8",
+  "description": "Your project description",
+  "image": "ipfs://NewUriToReplace/8.gif",
+  "edition": 8,
+  "date": 1646367570856,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Orange"
+    },
+    {
+      "trait_type": "Ball",
+      "value": "4Frames_Green_Ball"
+    }
+  ],
+  "compiler": "Generative GIF Engine"
+}
